@@ -1,6 +1,6 @@
 # Breast_Cancer_probability_RL
 
-This Repository contains data of 1000 women's probability of cancer at early stage and advanced stage at each mammogram screening along with state transition probabilities.
+This Repository contains data of 10000 women's probability of cancer at early stage and advanced stage at each mammogram screening along with state transition probabilities.
 Patoents start screening at age 40 and goes under screening each year as recommendation.
 
 ### file 1: "all_women_data.csv"
